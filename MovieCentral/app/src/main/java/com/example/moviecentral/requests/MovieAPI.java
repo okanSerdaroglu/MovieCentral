@@ -1,8 +1,9 @@
-package com.example.moviecentral.responses;
+package com.example.moviecentral.requests;
 
 import androidx.lifecycle.LiveData;
 
-import com.example.moviecentral.models.GenreResponse;
+import com.example.moviecentral.requests.responses.ApiResponse;
+import com.example.moviecentral.requests.responses.GenreResponse;
 
 import retrofit2.http.GET;
 import retrofit2.http.Query;

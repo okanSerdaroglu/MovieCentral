@@ -1,5 +1,6 @@
-package com.example.moviecentral.models;
+package com.example.moviecentral.requests.responses;
 
+import com.example.moviecentral.models.Genre;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

@@ -1,4 +1,4 @@
-package com.example.moviecentral.responses;
+package com.example.moviecentral.requests.responses;
 
 import java.io.IOException;
 
